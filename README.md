@@ -44,7 +44,7 @@ make style
 ```
 ```cmd
 --------------------------------------------------------------------
-Your code has been rated at 0.00/10 (previous run: 10.00/10, -10.00)
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
 ```
 
 rates the code quality of the Module BasicMathFunctions.
