@@ -1,3 +1,5 @@
+[![unitTest](https://github.com/TobiasRothlin/DevOpsPipeline/actions/workflows/CodeTest.yml/badge.svg?event=push)](https://github.com/TobiasRothlin/DevOpsPipeline/actions/workflows/CodeTest.yml)
+
 # DevOps Pipeline
 For efficient development the build, test and deployment of a project needs to be automated. This is an attempt of doing this. The Ideas in this Repo are based on the Book [Python for DevOps](https://www.oreilly.com/library/view/python-for-devops/9781492057680/) 
 and [Practical MLOps](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)
