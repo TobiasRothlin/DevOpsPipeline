@@ -20,7 +20,7 @@ def multiply(a,b):
     b : int
         second value
     """
-    return a-b
+    return a*b
 
 def sin(x):
     """Sinus of x
